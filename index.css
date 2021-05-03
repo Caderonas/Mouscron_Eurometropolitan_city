@@ -1,0 +1,38 @@
+body{
+    align-content: center;
+    background-color: whitesmoke;
+}
+
+header{
+    width: fit-content;
+    margin: 15 50 0 50px;
+}
+
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: right;
+}
+
+#map { 
+    height: 82%;
+    border-radius: 35px;
+    margin: 15 50 0 50px;
+}
+
+footer p{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    color: #B5B5B5;
+}
+
+.leaflet-popup-content {
+    width: fit-content!important;
+}
